@@ -1,0 +1,26 @@
+{
+    "name": "predaddy/predaddy-symfony-validator",
+    "description": "Symfony validation component for predaddy",
+    "license": "MIT",
+    "keywords": ["predaddy", "symfony", "validation"],
+    "authors": [
+        {
+            "name": "Janos Szurovecz",
+            "homepage": "http://www.szjani.hu/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "predaddy/predaddy": "3.0.*@dev",
+        "symfony/validator": "~2.5",
+        "lf4php/lf4php": "~4.2"
+    },
+    "require-dev": {
+        "satooshi/php-coveralls": "dev-master",
+        "phpunit/phpunit": "~4.1",
+        "lf4php/lf4php-log4php": "~2.1"
+    },
+    "autoload": {
+        "psr-0": {"predaddy": "src/"}
+    }
+}
