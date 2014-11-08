@@ -1,7 +1,7 @@
 predaddy-symfony-validator
 ==========================
 [![Latest Stable Version](https://poser.pugx.org/predaddy/predaddy-symfony-validator/v/stable.png)](https://packagist.org/packages/predaddy/predaddy-symfony-validator)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/szjani/predaddy-symfony-validator/badges/quality-score.png?b=1.8)](https://scrutinizer-ci.com/g/szjani/predaddy-symfony-validator/?branch=1.8)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/szjani/predaddy-symfony-validator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/szjani/predaddy-symfony-validator/?branch=master)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/6e9918be-77e2-49eb-b9c2-3a26135fcc5c/mini.png)](https://insight.sensiolabs.com/projects/6e9918be-77e2-49eb-b9c2-3a26135fcc5c)
 [![Gitter chat](https://badges.gitter.im/szjani/predaddy-symfony-validator.png)](https://gitter.im/szjani/predaddy-symfony-validator)
 
