@@ -10,7 +10,7 @@ predaddy-symfony-validator
 |[![Build Status](https://travis-ci.org/szjani/predaddy-symfony-validator.png?branch=master)](https://travis-ci.org/szjani/predaddy-symfony-validator)|
 |[![Coverage Status](https://coveralls.io/repos/szjani/predaddy-symfony-validator/badge.png?branch=master)](https://coveralls.io/r/szjani/predaddy-symfony-validator?branch=master)|
 
-The `ValidationInterceptor` provided by this library helps validating messages posted to predaddy `MessageBus`.
+The `ValidationInterceptor` provided by this library helps validating messages posted to [predaddy](https://github.com/szjani/predaddy) `MessageBus`.
 It is based on [Symfony Validator](https://github.com/symfony/Validator) component.
 
 Usage
